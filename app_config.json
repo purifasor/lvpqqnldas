@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "latestApkVersion": "7.1",
   "appLogo": {
     "url": ""
@@ -16,7 +16,7 @@
     "subtitle": "",
     "bgColor": "#11161C",
     "textColor": "#000000",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/purifasor/lvpqqnldas/main/media/banner_1786486981494.png?v=1786486984131",
     "action": "url",
     "actionUrl": "https://t.me/Professor_ch"
   },
@@ -28,7 +28,7 @@
   },
   "homeBanner": {
     "enabled": true,
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/purifasor/lvpqqnldas/main/media/banner_1786486981494.png?v=1786486984131",
     "text": "",
     "textColor": "#000000",
     "url": "https://t.me/Professor_ch"
@@ -52,16 +52,6 @@
       }
     ]
   },
-  "qrLink": {
-    "enabled": true,
-    "url": "https://professorvpn.vercel.app/",
-    "caption": "این بارکد را با دوربین گوشی اسکن کنید"
-  },
-  "qrcode": {
-    "enabled": true,
-    "url": "https://professorvpn.vercel.app/",
-    "caption": "این بارکد را با دوربین گوشی اسکن کنید"
-  },
   "notice": {
     "enabled": false,
     "title": "اعلان Professor Vpn",
@@ -69,8 +59,13 @@
     "id": "",
     "color": "#8a3ffc"
   },
-  "ts": 1784976834455,
-  "lastUpdatedAt": 1784976834455,
+  "qrLink": {
+    "enabled": true,
+    "url": "https://professorvpn.vercel.app/",
+    "caption": "این بارکد را با دوربین گوشی اسکن کنید"
+  },
+  "ts": 1786486984210,
+  "lastUpdatedAt": 1786486984210,
   "inAppTelegram": {
     "url": "https://t.me/Professor_ch"
   },
@@ -80,7 +75,7 @@
     "subtitle": "",
     "bgColor": "#11161C",
     "textColor": "#000000",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/purifasor/lvpqqnldas/main/media/banner_1786486981494.png?v=1786486984131",
     "action": "url",
     "actionUrl": "https://t.me/Professor_ch"
   },
@@ -103,5 +98,10 @@
     "text": "",
     "id": "",
     "color": "#8a3ffc"
+  },
+  "qrcode": {
+    "enabled": true,
+    "url": "https://professorvpn.vercel.app/",
+    "caption": "این بارکد را با دوربین گوشی اسکن کنید"
   }
 }
